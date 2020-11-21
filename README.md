@@ -8,4 +8,4 @@ Incluye el código DANE del departamento y el municipio.
 
 El motor de almacenamiento usado por las tablas generadas con esta secuencia SQL es MyISAM de MySQL.
 
-[https://dev.mysql.com/doc/refman/5.6/en/myisam-storage-engine.html] Más información 
+[Más información sobre MyISAM](https://dev.mysql.com/doc/refman/5.6/en/myisam-storage-engine.html) 
