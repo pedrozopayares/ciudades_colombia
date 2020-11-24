@@ -18,6 +18,6 @@ El motor de almacenamiento usado por las tablas generadas con esta secuencia SQL
 
 ## Monedas (currency.sql)
 
-Tabla que almacena algunas monedas con nombre estandar y símbolo. Le incluí un índice autonumérico para los ID.
+Tabla que almacena algunas monedas con nombre estandar y símbolo. Le incluí un índice autonumérico para los ID y establecí el motor a InnoDB.
 
-[Más información sobre esta tabla](https://gist.github.com/allanlaal/6206895) 
+[Más información sobre esta tabla](https://gist.github.com/voskobovich/537b2000108e4781f70b) 
