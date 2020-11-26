@@ -21,3 +21,9 @@ El motor de almacenamiento usado por las tablas generadas con esta secuencia SQL
 Tabla que almacena algunas monedas con nombre estandar y símbolo. Le incluí un índice autonumérico para los ID y establecí el motor a InnoDB.
 
 [Más información sobre esta tabla](https://gist.github.com/voskobovich/537b2000108e4781f70b) 
+
+## Tipos de identificación (colombia-identification-types.sql)
+
+Tabla que almacena el listado de los tipos de identificación más utilizados en Colombia. Le incluí un índice autonumérico para los ID y establecí el motor a InnoDB.
+
+[Más información sobre esta tabla](https://formularios.dane.gov.co/Anda_4_1/index.php/catalog/441/datafile/F2/V129#:~:text=RC%20%3D%20Registro%20Civil%20TI%20%3D%20Tarjeta,AS%20%3D%20Adulto%20sin%20identidad.) 
